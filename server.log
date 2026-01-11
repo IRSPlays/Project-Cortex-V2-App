@@ -1,0 +1,13 @@
+
+> project-cortex@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 4.4s
+ ○ Compiling /caregiver-login ...
+ ✓ Compiled /caregiver-login in 6.8s (502 modules)
+ GET /caregiver-login 200 in 7545ms
+ ✓ Compiled in 703ms (241 modules)
